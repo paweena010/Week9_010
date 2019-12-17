@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week9 Apps</string>
+    <string name="et_url">กรุณาป้อน URL หน่อยนะ</string>
+    <string name="btn_search" >ค้นหา</string>
+</resources>
